@@ -1,1 +1,64 @@
-{}
+{
+	"name": "c_system",
+	"type": "dir",
+	"saveRelPath": "/",
+	"children": [
+		{
+			"name": "vite",
+			"type": "dir",
+			"childrenConfirmed": false,
+			"children": [],
+			"saveRelPath": "/vite"
+		},
+		{
+			"name": "vms",
+			"type": "dir",
+			"childrenConfirmed": false,
+			"children": [],
+			"saveRelPath": "/vms"
+		},
+		{
+			"name": "vue",
+			"type": "dir",
+			"childrenConfirmed": false,
+			"children": [],
+			"saveRelPath": "/vue"
+		},
+		{
+			"name": "工具",
+			"type": "dir",
+			"childrenConfirmed": false,
+			"children": [],
+			"saveRelPath": "/工具"
+		},
+		{
+			"name": "系统设计",
+			"type": "dir",
+			"childrenConfirmed": false,
+			"children": [],
+			"saveRelPath": "/系统设计"
+		},
+		{
+			"name": ".DS_Store",
+			"type": "file",
+			"childrenConfirmed": false,
+			"children": [],
+			"saveRelPath": "/.DS_Store"
+		},
+		{
+			"name": "README.md",
+			"type": "file",
+			"childrenConfirmed": false,
+			"children": [],
+			"saveRelPath": "/README.md"
+		},
+		{
+			"name": "notely.nav.json",
+			"type": "file",
+			"childrenConfirmed": false,
+			"children": [],
+			"saveRelPath": "/notely.nav.json"
+		}
+	],
+	"childrenConfirmed": true
+}
