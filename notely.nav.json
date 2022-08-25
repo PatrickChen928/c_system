@@ -30,6 +30,13 @@
 					"saveRelPath": "/vue/.DS_Store"
 				},
 				{
+					"name": "composition api.draw.notely",
+					"saveRelPath": "/notelydb/file_2022_08_25_15_08_594.draw.notely",
+					"children": [],
+					"childrenConfirmed": true,
+					"type": "file"
+				},
+				{
 					"name": "proxy.draw.notely",
 					"type": "file",
 					"childrenConfirmed": false,
