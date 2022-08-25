@@ -20,8 +20,44 @@
 		{
 			"name": "vue",
 			"type": "dir",
-			"childrenConfirmed": false,
-			"children": [],
+			"childrenConfirmed": true,
+			"children": [
+				{
+					"name": ".DS_Store",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vue/.DS_Store"
+				},
+				{
+					"name": "proxy.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vue/proxy.draw.notely"
+				},
+				{
+					"name": "vue3推动.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vue/vue3推动.draw.notely"
+				},
+				{
+					"name": "vue3组件渲染逻辑.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vue/vue3组件渲染逻辑.draw.notely"
+				},
+				{
+					"name": "vuex.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vue/vuex.draw.notely"
+				}
+			],
 			"saveRelPath": "/vue"
 		},
 		{
