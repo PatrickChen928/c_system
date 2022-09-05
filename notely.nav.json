@@ -96,6 +96,13 @@
 			"saveRelPath": "/README.md"
 		},
 		{
+			"name": "json2ts.draw.notely",
+			"saveRelPath": "/notelydb/file_2022_09_05_16_09_186.draw.notely",
+			"children": [],
+			"childrenConfirmed": true,
+			"type": "file"
+		},
+		{
 			"name": "notely.nav.json",
 			"type": "file",
 			"childrenConfirmed": false,
