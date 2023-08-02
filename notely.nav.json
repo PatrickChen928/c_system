@@ -6,8 +6,16 @@
 		{
 			"name": "vite",
 			"type": "dir",
-			"childrenConfirmed": false,
-			"children": [],
+			"childrenConfirmed": true,
+			"children": [
+				{
+					"name": "mini-vite.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vite/mini-vite.draw.notely"
+				}
+			],
 			"saveRelPath": "/vite"
 		},
 		{
