@@ -21,8 +21,72 @@
 		{
 			"name": "vms",
 			"type": "dir",
-			"childrenConfirmed": false,
-			"children": [],
+			"childrenConfirmed": true,
+			"children": [
+				{
+					"name": "action_vms.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vms/action_vms.draw.notely"
+				},
+				{
+					"name": "vms优化.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vms/vms优化.draw.notely"
+				},
+				{
+					"name": "vms架构图.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vms/vms架构图.draw.notely"
+				},
+				{
+					"name": "vstudio迁移.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vms/vstudio迁移.draw.notely"
+				},
+				{
+					"name": "wdupload.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vms/wdupload.draw.notely"
+				},
+				{
+					"name": "wuse.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vms/wuse.draw.notely"
+				},
+				{
+					"name": "搭建的作用.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vms/搭建的作用.draw.notely"
+				},
+				{
+					"name": "脚手架.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vms/脚手架.draw.notely"
+				},
+				{
+					"name": "预览.draw.notely",
+					"type": "file",
+					"childrenConfirmed": false,
+					"children": [],
+					"saveRelPath": "/vms/预览.draw.notely"
+				}
+			],
 			"saveRelPath": "/vms"
 		},
 		{
